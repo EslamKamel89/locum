@@ -4,3 +4,8 @@
   --dark-color: #2b3041;
   --light: #f3f6f9;
 }
+nav {
+  background-image: url("../images/hexagon-bg-blue-1024x1024.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
