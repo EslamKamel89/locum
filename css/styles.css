@@ -2,10 +2,30 @@
   --primary-color: #c167ef;
   --secondary-color: #10bcee;
   --dark-color: #2b3041;
-  --light: #f3f6f9;
+  --light: #dfe2e6;
+  --white: #ffffff;
 }
 nav {
   background-image: url("../images/hexagon-bg-blue-1024x1024.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+header {
+  background-image: url("../images/hayes-homepage-hero-static-rev.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#dropdown {
+  width: 200px;
+}
+
+#sectionBackground {
+  background-image: url("../images/hexagon-bg-blue-1024x1024.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#reviewsSectionBackground {
+  background-image: url("../images/Hayes-Testimonials-HospitalBed-bl-1024x309.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
