@@ -11,7 +11,11 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
-
+@media (min-width: 992px) {
+  .bg-lg-dark {
+    background-color: var(--dark-color) !important;
+  }
+}
 .nav-link:hover {
   color: grey;
 }

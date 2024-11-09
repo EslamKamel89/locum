@@ -1,7 +1,7 @@
 {
-  "name": "ebook-website",
+  "name": "locum-website",
   "version": "1.0.0",
-  "description": "ebook-website",
+  "description": "locum-website",
   "main": "index.js",
   "scripts": {
     "build:sass": "sass --no-source-map scss:css",
