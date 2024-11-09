@@ -5,16 +5,28 @@
   --light: #dfe2e6;
   --white: #ffffff;
 }
-nav {
+
+#navbar {
   background-image: url("../images/hexagon-bg-blue-1024x1024.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+.nav-link:hover {
+  color: grey;
+}
+
+.main-title {
+  font-size: 70px;
+  line-height: 0.8em;
+}
+
 header {
   background-image: url("../images/hayes-homepage-hero-static-rev.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 #dropdown {
   width: 200px;
 }
@@ -24,8 +36,15 @@ header {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 #reviewsSectionBackground {
   background-image: url("../images/Hayes-Testimonials-HospitalBed-bl-1024x309.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#connectWithConsultant {
+  background-image: url("../images/city-street-road-blurry.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
